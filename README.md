@@ -3,7 +3,7 @@
 ##IDE Screenshot
 ![image.png](assets/button_LED_IDE.png)
 
-## blinking_LED.py source code screenshot
+## button_LED.py source code screenshot
 ![image.png](assets/button_LED_code.png)
 
 ## result image
