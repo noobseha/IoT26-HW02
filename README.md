@@ -10,4 +10,4 @@
 ![image.png](assets/button_LED.jpg)
 
 ## result gif
-![blinking_LED_result](assets/KakaoTalk_20260506_144903547.gif)
+![blinking_LED_result](assets/buttonLED.gif)
