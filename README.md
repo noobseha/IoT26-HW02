@@ -1,6 +1,6 @@
 # IoT26-HW02
 
-##IDE Screenshot
+## IDE Screenshot
 ![image.png](assets/button_LED_IDE.png)
 
 ## button_LED.py source code screenshot
